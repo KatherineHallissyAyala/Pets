@@ -1,3 +1,9 @@
-public class Dog = {
-    System.out.println("Woof");
+package tutorial1;
+
+public class Main{
+        
+        public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+    
 }
